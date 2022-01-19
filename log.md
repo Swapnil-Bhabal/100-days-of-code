@@ -6,7 +6,7 @@
 
 **Thoughts:** I struggled with git logs, i wanted previous version of my code but after a while i figured it out. Day 1 went really good Hoping for next 99 days to go well.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Recipe Webpage](https://swapnil-bhabal.github.io/Recipes/)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
