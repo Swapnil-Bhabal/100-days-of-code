@@ -15,9 +15,13 @@
 **Thoughts**: I really struggled with CSS, i was not knowing what many CSS terms are called such as declaration, value, selector,etc. It was a nice start to the journey of CSS.
 
 **Link(s) to work**: [CSS methods](https://swapnil-bhabal.github.io/css-foundations/css-odin/css-methods/)
+
 **Link(s) to work**: [Class & id Selectors](https://swapnil-bhabal.github.io/css-foundations/css-odin/class-id-selectors/)
+
 **Link(s) to work**: [Grouping Selectors](https://swapnil-bhabal.github.io/css-foundations/css-odin/grouping-selectors/)
+
 **Link(s) to work**: [Chaining Selectors](https://swapnil-bhabal.github.io/css-foundations/css-odin/chaining-selectors/)
+
 **Link(s) to work**: [Descendant Combinator](https://swapnil-bhabal.github.io/css-foundations/css-odin/descendant-combinator/)
 
 
