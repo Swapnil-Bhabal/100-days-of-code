@@ -8,14 +8,17 @@
 
 **Link to work:** [Recipe Webpage](https://swapnil-bhabal.github.io/Recipes/)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: January  20, 2022 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Learnt about basics of html and created small 5 webpages out of the topics which i learnt.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I really struggled with CSS, i was not knowing what many CSS terms are called such as declaration, value, selector,etc. It was a nice start to the journey of CSS.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [CSS methods](https://swapnil-bhabal.github.io/css-foundations/css-odin/css-methods/)
+**Link(s) to work**: [Class & id Selectors](https://swapnil-bhabal.github.io/css-foundations/css-odin/class-id-selectors/)
+**Link(s) to work**: [Grouping Selectors](https://swapnil-bhabal.github.io/css-foundations/css-odin/grouping-selectors/)
+**Link(s) to work**: [Chaining Selectors](https://swapnil-bhabal.github.io/css-foundations/css-odin/chaining-selectors/)
+**Link(s) to work**: [Descendant Combinator](https://swapnil-bhabal.github.io/css-foundations/css-odin/descendant-combinator/)
 
 
 ### Day 1: June 27, Monday
